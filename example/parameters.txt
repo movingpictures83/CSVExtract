@@ -1,0 +1,3 @@
+inputfile	plugins/CSVExtract/example/abund.thresholded.csv
+column		2
+value		A

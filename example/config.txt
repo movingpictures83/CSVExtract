@@ -1,0 +1,2 @@
+Prefix plugins/CSVExtract/example/
+Plugin CSVExtract inputfile parameters.txt outputfile abund.A.csv
