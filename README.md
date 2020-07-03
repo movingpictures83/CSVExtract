@@ -2,7 +2,8 @@
 # Language: R
 # Input: TXT (keyword, value pairs)
 # Output: CSV (thresholded abundance data)
-# Tested with: PluMA 1.0, R 3.2.5
+# Tested with: PluMA 1.1, R 4.0.0
+# rlist_0.4.6.1
 
 PluMA plugin to take a CSV file and keep only the rows with a specific column that contains a specific value.
 Output will be another CSV file with the appropriate rows removed.
